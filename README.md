@@ -11,8 +11,8 @@ To control an LED using Arduino UNO and make it blink at regular intervals.
 - Jumper wires
 
 ## 🔌 Circuit Connection
-- Connect LED positive leg to digital pin 13 through resistor
-- Connect LED negative leg to GND
+- Connect LED positive leg to digital pin 13 through resistor.
+- Connect LED negative leg to GND.
 
 ## 💻 Code
 ```cpp
