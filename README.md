@@ -15,7 +15,7 @@ To control an LED using Arduino UNO and make it blink at regular intervals.
 - Connect LED negative leg to GND
 
 ## 💻 Code
-c++
+```cpp
 void setup() {
   pinMode(13, OUTPUT);
 }
@@ -27,6 +27,7 @@ void loop() {
   delay(1000);
 }
 
+```
 ## 📷 Output
 The LED connected to pin 13 blinks ON and OFF at a 1-second interval.
 
